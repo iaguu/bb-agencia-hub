@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "cli-anne-tom",
+      "name": "Pizzaria Anne & Tom",
+      "brand": "Anne & Tom",
+      "segment": "Pizzaria / Delivery",
+      "contactName": "Anne",
+      "contactPhone": "11 99999-0000",
+      "contactEmail": "contato@anneetom.com",
+      "city": "São Paulo - Zona Norte",
+      "plan": "full",
+      "notes": "Cliente âncora da agência. Foco em delivery, ticket médio alto e expansão de raio de entrega."
+    },
+    {
+      "id": "cli-smart-adhesive",
+      "name": "BRS Soluções",
+      "brand": "Smart Adhesive Plate",
+      "segment": "Materiais / Cozinha Profissional",
+      "contactName": "Iago Barreto",
+      "contactPhone": "11 98880-0000",
+      "contactEmail": "contato@brssolucoes.com",
+      "city": "São Paulo",
+      "plan": "performance",
+      "notes": "Produto de adesivo anti-grude para pizzarias e cozinhas de alto fluxo."
+    }
+  ]
+}

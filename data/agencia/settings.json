@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "id": "default",
+      "aiModel": "gpt-5.1",
+      "tone": "professional",
+      "reportsStyle": "executivo"
+    }
+  ]
+}

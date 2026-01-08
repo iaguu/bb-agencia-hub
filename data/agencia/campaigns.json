@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "id": "camp-anne-lancamento-zona-norte",
+      "name": "Lançamento Delivery Zona Norte",
+      "objective": "Aumentar pedidos via WhatsApp em 40%",
+      "clientBrand": "Anne & Tom",
+      "budget": "R$ 2.500/mês",
+      "status": "running",
+      "notes": "Criativos focados em fome noturna, prova social e combos familiares."
+    }
+  ]
+}
