@@ -1,7 +1,7 @@
 {
   "name": "agencia-hub",
   "version": "1.0.0",
-  "description": "Agência HUB – painel inteligente de clientes, redes sociais, campanhas e relatórios.",
+  "description": "Ag\u00c3\u00aancia HUB \u00e2\u20ac\u201c painel inteligente de clientes, redes sociais, campanhas e relat\u00c3\u00b3rios.",
   "main": "electron/main.js",
   "scripts": {
     "dev": "concurrently -k \"npm:dev:renderer\" \"npm:dev:electron\"",
@@ -9,7 +9,11 @@
     "dev:electron": "wait-on http://localhost:5173 && electron .",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "electron ."
+    "start": "electron .",
+    "test": "react-scripts test --coverage --watchAll=false",
+    "eject": "react-scripts eject",
+    "lint": "eslint src/**/*.{js,jsx}",
+    "lint:fix": "eslint src/**/*.{js,jsx} --fix"
   },
   "dependencies": {
     "react": "^18.3.1",
